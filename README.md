@@ -26,8 +26,7 @@ Tabela 3: Število vpisanihh v terciarno izobraževanje v evropskih državah
   - število vpisanih
 
 Zanimalo me bo predvsem, koliko štedentov je vpisanih v terciarno izobraževanje v posameznih regijah, v kateri regiji jih je bilo največ v vsakem letu in kakšno je povprečje v obravnavanem obdobju. Pogledala si bom, kako se število vpisanih razlikuje glede na vrsto izobraževanja tj. visokošolsko univerzitetno, magistersko, doktorsko...
-Izbrali si boste temo, s katero se bo vaš projekt ukvarjal.
-Tukaj boste napisali, kje ste dobili podatke, ter kakšen je vaš cilj.
+
 
 ## Program
 
