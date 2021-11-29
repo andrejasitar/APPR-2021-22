@@ -13,10 +13,12 @@ Tabela 1: Število vpisanihh v terciarno izobraževanje glede na vrsto izobraže
   - kohezijska regija
   - leto
   - število vpisanih
+  
 Tabela 2: Število vpisanihh v terciarno izobraževanje po statističnih regijah 
   - statistična regija
   - leto
   - število vpisanih
+
 Tabela 3: Število vpisanihh v terciarno izobraževanje v evropskih državah
   - država
   - spol
