@@ -13,17 +13,20 @@ Tabela 1: Število vpisanihh v terciarno izobraževanje glede na vrsto izobraže
   - kohezijska regija
   - leto
   - število vpisanih
+  - https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0955078S.px
   
 Tabela 2: Število vpisanihh v terciarno izobraževanje po statističnih regijah 
   - statistična regija
   - leto
   - število vpisanih
+  - https://pxweb.stat.si/SiStatData/pxweb/sl/Data/-/0955072S.px
 
 Tabela 3: Število vpisanihh v terciarno izobraževanje v evropskih državah
   - država
   - spol
   - leto
   - število vpisanih
+  - https://ec.europa.eu/eurostat/databrowser/view/EDUC_UOE_ENRT03__custom_1664237/default/table?lang=en
 
 Zanimalo me bo predvsem, koliko štedentov je vpisanih v terciarno izobraževanje v posameznih regijah, v kateri regiji jih je bilo največ v vsakem letu in kakšno je povprečje v obravnavanem obdobju. Pogledala si bom, kako se število vpisanih razlikuje glede na vrsto izobraževanja tj. visokošolsko univerzitetno, magistersko, doktorsko...
 
